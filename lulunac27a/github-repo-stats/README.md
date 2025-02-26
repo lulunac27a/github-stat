@@ -7,4 +7,4 @@
 **Latest report PDF**: [report.pdf](https://github.com/lulunac27a/github-stat/raw/github-repo-stats/lulunac27a/github-repo-stats/latest-report/report.pdf)
 
 
-**Latest report HTML via GitHub pages**: [report.html](https://lulunac27a.github.io/github-repo-stat/lulunac27a/github-repo-stats/latest-report/report.html)
+**Latest report HTML via GitHub pages**: [report.html](https://lulunac27a.github.io/github-stat/lulunac27a/github-repo-stats/latest-report/report.html)
